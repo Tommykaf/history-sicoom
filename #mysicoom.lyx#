@@ -174,7 +174,7 @@
 \end_layout
 
 \begin_layout Standard
-ראשית אציין כי סיכום זה בנוי באופן חלקי מהחומר במחסרות שלי, ובנוסף משלב
+ראשית אציין כי סיכום זה בנוי באופן חלקי מהחומר במחברות שלי, ובנוסף משלב
  מספר סיכומים שמוזגו לכדי סיכום אחד, על כן אני מעוניין להודות לכותבי הסיכומים
  הללו:
 \end_layout
@@ -1517,7 +1517,61 @@ status collapsed
 \end_layout
 
 \begin_layout Itemize
-במהלך המרד נהרגו יהודים רבים.
+במהלך המרד נהרגו יהודים רבים )בין
+\family roman
+\series medium
+\shape up
+\size normal
+\emph off
+\bar no
+\strikeout off
+\xout off
+\uuline off
+\uwave off
+\noun off
+\color none
+ 
+\family default
+\series default
+\shape default
+\size default
+\emph default
+\numeric on
+\bar default
+\strikeout default
+\xout default
+\uuline default
+\uwave default
+\noun default
+\color inherit
+600
+\family roman
+\series medium
+\shape up
+\size normal
+\emph off
+\numeric off
+\bar no
+\strikeout off
+\xout off
+\uuline off
+\uwave off
+\noun off
+\color none
+ 
+\family default
+\series default
+\shape default
+\size default
+\emph default
+\bar default
+\strikeout default
+\xout default
+\uuline default
+\uwave default
+\noun default
+\color inherit
+אלף למיליון(.
  בנוסף רבים נלקחו כעבדים או כמשתתפים בלודר )פרקטית מזון לחיות(
 \end_layout
 
@@ -1672,7 +1726,467 @@ status collapsed
 \series bold
 מנהג נטילת הלולב -
 \series default
- גם מנהג זה היה קשור לבית המקדש )סוכ(
+ גם מנהג זה היה קשור לבית המקדש )סוכות(.
+ נטילת הלולב התקיימה בעיקרון בכל שבעת ימי החג בבית המקדש עצמו, ובכל מקום
+ מחוצה לו רק ביום הראשון של החג.
+ ריב
+\begin_inset Quotes erd
+\end_inset
+
+ז תיקן תקנה על פיה ניתן לקיים את המנהג בכל שבעת ימי החג בכל מקום.
+\end_layout
+
+\begin_layout Enumerate
+
+\series bold
+ברכת הכהנים - 
+\series default
+בעבר ברכת הכהנים באמרה בבתי הכנסת ולא רק בבית המקדש, ריב
+\begin_inset Quotes erd
+\end_inset
+
+ז המשיך את קיום המנהג את קבע כי יש על הכהנים לחלוץ את נעליהם בעת הברכה כזכר
+ לכך שהכהנים נהגו ללכת יחפים בבית המקדש.
+\end_layout
+
+\begin_layout Standard
+\begin_inset Separator plain
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+למעשה, בית הכנסת הפך למרכז הפולחן ובכך הפך ריב
+\begin_inset Quotes erd
+\end_inset
+
+ז את היהדות לכזו שלא תלויה בקיום המקדש וירושלים.
+\end_layout
+
+\begin_layout Standard
+בנוסף הוקמו מוסדות ההנהגה החדשים )בית הדין הגדול והנשיאות( ביבנה במטרה לייצג
+ את העם מול השלטון, להכריע סכסוכים ולפסוק בענייני הלכה.
+\end_layout
+
+\begin_layout Standard
+לאחר שעזב ריב
+\begin_inset Quotes erd
+\end_inset
+
+ז את יבנה תפס את מקומו רבן גמליאל, בנו של רבן שמעון בן גמליאל )קיבל את שמו
+ מהסבא(.
+ הוא היה אהוב ביותר על העם ועל הרומאים כאחד ותיקן גם הוא מספר תקנות:
+\end_layout
+
+\begin_layout Itemize
+שינוי מנהגי חגים
+\end_layout
+
+\begin_layout Itemize
+ימי הצום - י
+\begin_inset Quotes erd
+\end_inset
+
+ז בתמוז, ט' באב, ג' בתשרי, י' בטבת.
+\end_layout
+
+\begin_layout Itemize
+התפילה - כבר בימי בית המקדש היה נהוג להתפלל, רבן גמליאל הגדיל את כמות התפילות
+ כשר קבע כי יש להתפלל כשלוש תפילות ביום.
+ הוא גם חיבר את הנוסח הסופי לתפילת שמונה-עשרה.
+\end_layout
+
+\begin_layout Standard
+\begin_inset Separator plain
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Newpage newpage
+\end_inset
+
+
+\end_layout
+
+\begin_layout Part
+לאומיות או לא להיות
+\end_layout
+
+\begin_layout Section
+לאומיות
+\end_layout
+
+\begin_layout Subsection
+הגדרות ובסיס
+\end_layout
+
+\begin_layout Definition
+
+\series bold
+לאום - 
+\series default
+קבוצה בעלת זהות משותפת השואפת להגדרה עצמית של מדינה על טריטוריה ספיציפית.
+\end_layout
+
+\begin_layout Standard
+\begin_inset Separator plain
+\end_inset
+
+
+\end_layout
+
+\begin_layout Definition
+
+\series bold
+לאומיות - 
+\series default
+תופעה חברתית פוליטית שצמחה באירופה החל מהמאה ה-
+\begin_inset Formula $17$
+\end_inset
+
+, ובמרכזה עומדת השאיפה )והזכות( של כל לאום לריבונות בשטח שאליו יש לו זיקה.
+\end_layout
+
+\begin_layout Standard
+\begin_inset Separator plain
+\end_inset
+
+
+\end_layout
+
+\begin_layout Definition
+
+\series bold
+מדינת לאום - 
+\series default
+מדינה בה שולט לאום אחד
+\end_layout
+
+\begin_layout Standard
+\begin_inset Separator plain
+\end_inset
+
+
+\end_layout
+
+\begin_layout Subsubsection
+גורמים מלכדים
+\end_layout
+
+\begin_layout Enumerate
+
+\series bold
+טריטוריה - 
+\series default
+מרכיב חשוב ביותר.
+ הטריטוריה שייכת לכלל הלאום.
+ נקשר אליה רגש והיא מהווה יותר מרק האדמה שמרכיבה אותה.
+\end_layout
+
+\begin_layout Enumerate
+
+\series bold
+שפה - 
+\series default
+כלי מלכד - כולם חושבים ומתבטאים באותה שפה, וזו מייחדת אותם מאחרים.
+\end_layout
+
+\begin_layout Enumerate
+
+\series bold
+עבר משותף - 
+\series default
+הדגשת הקשר בים ההווה לעבר של אומה.
+ הנצחת ימי זיכרון, אירועים חשובים וגיבורי תרבות, יצירת מיתוסים ועוד.
+\end_layout
+
+\begin_layout Enumerate
+
+\series bold
+תרבות משותפת - 
+\series default
+באה לידי ביטוי באומנות, ספרות ושירה.
+\end_layout
+
+\begin_layout Enumerate
+
+\series bold
+סמלים דגלים והמנונים - 
+\series default
+מקור לגאווה לאומית.
+ 
+\series bold
+למשל:
+\series default
+ פסלים למיניהם, המנון המדינה.
+ בצרפת - הדגל מייצג את ערכי המהפכה, וההמנון מבטא התנגדות לעריצים.
+\end_layout
+
+\begin_layout Enumerate
+
+\series bold
+תודעה לאומית ושאיפה לעצמאות - 
+\series default
+בני הלאום מודעים לשיוכם ללאום זה ומתלכדים סביבו.
+\end_layout
+
+\begin_layout Subsection
+הגורמים לצמיחת הלאומיות המודרנית
+\end_layout
+
+\begin_layout Subsubsection
+גורמים אידיאולוגיים
+\end_layout
+
+\begin_layout Paragraph
+תנועת ההשכלה
+\end_layout
+
+\begin_layout Standard
+תנועה שהחלה לצמוח באירופה במאה ה-
+\begin_inset Formula $18$
+\end_inset
+
+, ובבסיסה עמד הרעיון שמעתה האדם ושכלו עומדים במרכז, במקום האל הודת ששלטו
+ באירופה מאות שנים.
+\begin_inset Newline newline
+\end_inset
+
+בעקבות ההשכלה / נאורות התפתח המדע וכך החלו לחקור אסונות טבע ולהמציא תרופות.
+\begin_inset Newline newline
+\end_inset
+
+בנוסף תנועת ההשכלה השפיעה על צמיחת הרעיון הלאומי כאשר ערערה על הרעיון של
+ 
+\begin_inset Quotes eld
+\end_inset
+
+מלך בחסד האל
+\begin_inset Quotes erd
+\end_inset
+
+.
+ לכן האדם יכול להטיל ספק במלך ולהפעיל את ההגיון - ריבונות העם.
+\end_layout
+
+\begin_layout Paragraph
+התנועה הרומנטית
+\end_layout
+
+\begin_layout Standard
+זרם מחשבתי שהתפתח בסוף המאה ה-
+\begin_inset Formula $18$
+\end_inset
+
+ בעקבות, וכמעין תגובת נגד, לתנועת ההשכלה.
+\begin_inset Newline newline
+\end_inset
+
+גם תנועה זו מעמידה את האדם במרכז אך שמה אתה הדגש ברגש ולא על השכל.
+\begin_inset Newline newline
+\end_inset
+
+התנועה מבוססת בעיקר על רגשות הנוסטלגיה וחבריה שאפו לשמר את המצב הטבעי הישן,
+ ועודדה כל אדם ולאום למצוא את היחודי.
+\begin_inset Newline newline
+\end_inset
+
+חברי התנועה הדגישו את הקשר לעבר ולהיסטוריה, לעתים בהסתמך על תרבות עבר מפוארת,
+ כמו במקרה של יוון.
+\begin_inset Newline newline
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+התרומה הלאומית עזרה להתפתחות הלאומיות בכך שעודדה עמים להדגיש את הייחודיות
+ שלהם על ידי סיפורי עם, אגדות, אתוסים, יצירת גיבורים לאומיים, והעצמת האהבה
+ למולדת.
+\end_layout
+
+\begin_layout Subsubsection
+גורמים חברתיים-כלכליים
+\end_layout
+
+\begin_layout Paragraph
+תהליך החילון
+\end_layout
+
+\begin_layout Standard
+כתוצאה מתנועת ההשכלה, אזרחי אירופה החלו להטיל ספק בדתם ובעיקר בסמכויות הכנסייה.
+ הלאומיות אפשרה למלא את החלל הריק שנוצר עקב איבוד הזיקה לכנסייה, ונתנה לאדם
+ גוף להשתייך אליו ולהזדהות עמו.
+\end_layout
+
+\begin_layout Paragraph
+המהפכה התעשייתית + עיור
+\end_layout
+
+\begin_layout Standard
+החל מהאמצע המאה ה-
+\begin_inset Formula $18$
+\end_inset
+
+ ועקב התפתחות המדע, החלו להתפתח שיטות חדשות של תקשורת, תחבורה , חקלאות ועוד...
+\end_layout
+
+\begin_layout Standard
+המהפכה הביאה לשני שינויים עיקריים:
+\end_layout
+
+\begin_layout Itemize
+עיור
+\end_layout
+
+\begin_layout Itemize
+יצירת מעמד הבורגנות, ששאף לשנות את הסדר הישן.
+\end_layout
+
+\begin_layout Standard
+הניכור בערים תרם אצל רבים ליצירת הצורך בשייכות.
+\end_layout
+
+\begin_layout Subsubsection
+גורמים היסטוריים
+\end_layout
+
+\begin_layout Paragraph
+המהפכה הצרפתית
+\end_layout
+
+\begin_layout Standard
+המהפכה הצרפתית, שהתרחשה בשנת 
+\begin_inset Formula $1789$
+\end_inset
+
+ הביאה לידי ביטוי את הרעיונות החדשים של תנועת ההשכלה.
+ לאחר המהפכה עלה נפוליאון לשלטון וכבש ארצות רבות באירופה, וכך רעיונות המהפכה
+ עברו לארצות הכבושות.
+ כיבושי נפוליאון תרמו בפיתוח הלאומיות בעמים הכבושות.
+\end_layout
+
+\begin_layout Paragraph
+המהפכה האמריקנית
+\end_layout
+
+\begin_layout Standard
+במלחמת השחרור האמריקאית נלחמו המושבות על עצמאות מבריטניה )
+\begin_inset Formula $1775$
+\end_inset
+
+(.
+ המושבות התאחדו והפכו למדינה ריבונית - 
+\begin_inset Quotes eld
+\end_inset
+
+ארצות הברית של אמריקה
+\begin_inset Quotes erd
+\end_inset
+
+.
+ זו נהייתה מדינת הלאום הראשונה ועוצבה על רעיונות ההשכלה, דבר שגרם לעידוד
+ הלאומיות במקומות אחרים, כולל תרוצה להאצת המהפכהה הצרפתית.
+\end_layout
+
+\begin_layout Subsection
+השינויים להם הלאומיות גרמה
+\end_layout
+
+\begin_layout Subsubsection
+שינוי גיאוגרפי-מדיני
+\end_layout
+
+\begin_layout Standard
+בעקבות הלאומיות השתנתה מפת אירופה באופן ניכר.
+ שלוש האימפריות המרכזיות באירופה: הרוסית, העותמנית והאוסטרו הונגרית, התפרקו
+ ובמקומן הוקמו מדינות חדשות דוגמת בולגריה ופולין.
+\end_layout
+
+\begin_layout Subsubsection
+שינוי תודעתי אידיאולוגי
+\end_layout
+
+\begin_layout Standard
+הלאומיות והתודעה הלאומית הפכו למוקד הזהות של אזרחי אירופה.
+ הלאומיות יצרה אחדות, תחושת שייכות והעניקה משמעות לחיי התושבים, זאת במקום
+ הדת.
+\end_layout
+
+\begin_layout Subsubsection
+שינוי פוליטי
+\end_layout
+
+\begin_layout Standard
+הלאומיות גרמה לשינוי מהותנ בשיטת הממשל.
+ המשטרים המלוכנים באירופה סולקו / הודחו ובמקומם הוקמו משטרים המתבססים על
+ ריבונות העם - ההתחלה של הדמוקרטיה בעידן המודרני.
+ הלאומיות והדמוקרטיה )בגלגול קודם שלה( הלכו יד ביד.
+\end_layout
+
+\begin_layout Subsection
+מאפייני התנועות הלאומיות
+\end_layout
+
+\begin_layout Subsubsection
+מטרה
+\end_layout
+
+\begin_layout Standard
+לכל התנועות הלאומיות אותה מטרה - 
+\series bold
+הקמת מדינת לאום.
+
+\series default
+ בנוסף, התנועות בירשו ליצור בסיס תרבותי חילוני עבור הלאום.
+\end_layout
+
+\begin_layout Subsubsection
+סוג חדש של מנהיגים
+\end_layout
+
+\begin_layout Standard
+בניגוד למנהיגים הישנים, שאת כוחם קיבלו מהייחוס המשפחתי, מנהיגי התנועות הלאומיות
+ היו צריכים להוכיח את היותם ראויים לתפקיד.
+\end_layout
+
+\begin_layout Standard
+לכן מנהיגי התנועות הלאומיות היו בעלי כריזמה ויכולות לנסח רעיונות ואג'נדות
+ שידברו לכלל העם.
+ הנהגה חדשה זו שאבה את כוחה מהעם.
+ רבים מהמנהיגים הגיעו מהשכבה היותר משכילה של האוכלוסיה.
+\end_layout
+
+\begin_layout Subsubsection
+תחומי הפעולה של התנועות הלאומיות
+\end_layout
+
+\begin_layout Standard
+באופן עקרוני - שני מישורי פעילות: המישור הפוליטי והמישור החברתי-מדיני.
+ בחלק מהמקרים היה גם צורך בפעילות צבאית.
+\end_layout
+
+\begin_layout Standard
+מישור הפעילות העיקרי היה שונה בין כל תנועה לתנועה והיה תלוי במצב הפוליטי-מדיני
+ באזור.
+ בחלק מהמקרים מהפכה פוליטית הספיקה כדי להפוך את המשטר )צרפת(, בחלק אחר היה
+ צודרך לגבש מספר מדינות קטנות לכדי מדינה אחת )גרמניה( ובחלק אחר היה לגרש
+ שלטון זר ולפעול באמצעות צבא כדי לפרק אימפריה )רוב מדינות הבלקן(.
+\end_layout
+
+\begin_layout Subsubsection
+שלבי ההתפתחות של התנועות לאומיות
+\end_layout
+
+\begin_layout Enumerate
+הגדרת הלאום וגיבוש תרבותו:
+\begin_inset Newline newline
+\end_inset
+
+
 \end_layout
 
 \end_body
